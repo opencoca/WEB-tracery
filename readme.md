@@ -2,8 +2,12 @@
 
 ## A text-expansion library
 
-There are many new examples of Tracery [in use](http://www.crystalcodepalace.com/tracery.html "Examples")
-I also have an exciting new *interactive* [tutorial](http://www.crystalcodepalace.com/traceryTut.html "Tutorial")
+**Note** these are archival at the moment an likely will not render properly. 
+
+There are some examples of Tracery [in use](https://web.archive.org/web/20190228143734/https://www.crystalcodepalace.com/tracery.html "Examples")
+I also have an exciting new *interactive* [tutorial](https://web.archive.org/web/20190228143734/https://www.crystalcodepalace.com/traceryTut.html "Tutorial")
+
+
 
 I strongly recommend using the [minified library](https://github.com/galaxykate/tracery/blob/master/js/tracery.min.js "Minified")
 
